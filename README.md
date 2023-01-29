@@ -1,2 +1,2 @@
-# SAM_Analysis
-Social Accounting Matrix Analysis for Mexico - Thesis
+# SAM_GeneralEquilibrium
+Social Accounting Matrix for General Equilibrium Analysis for Mexico - Thesis
