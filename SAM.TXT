@@ -1,6 +1,5 @@
-
-*Matriz de insumo producto 2013
-*Mexico, 2019
+*Matriz de insumo producto base 2013
+*Mexico, 2023
 *Margenes de comercio y transporte no distribuidos (precios de productor)
 *En esta version petroleo y electricidad se comportan como empresas publicas
 *Se supone de acuerdo a la ocde que el isr es 55 empresas y 45 personas
